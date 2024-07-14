@@ -12,7 +12,7 @@
 
 ### 引擎服务端下载
 
-- 2024-07-14 <i>1.3.0</i> :fire: - 下载地址：[蓝奏云(密码:hva8)](https://wwl.lanzouw.com/iScYf24ept4j)
+- 2024-07-14 <i>1.3.0</i> :fire: - 下载地址：[蓝奏云(密码:7bv4)](https://wwl.lanzouw.com/igL5p24g751g)
   - 封挂网关/属性突破
 - 2024-06-29 <i>1.2.0</i> - 下载地址：[蓝奏云(密码:g9k2)](https://wwl.lanzouw.com/iwGwX24dpnra)
   - 血量突破
