@@ -12,11 +12,13 @@
 
 ### 引擎服务端下载
 
-- 2024-07-28 <i>1.3.1</i> :fire: - 下载地址：[蓝奏云(密码:7524)](https://wwl.lanzouw.com/iWx1P25sma7a)
+- 2024-08-18 <i>1.3.2</i> :fire: - 下载地址：[蓝奏云(密码:dgea)](https://wwyh.lanzouw.com/iQmep27pwj6h)
+  - 爆率格式/外挂控制
+- 2024-07-28 <i>1.3.1</i> - 下载地址：[蓝奏云(密码:7524)](https://wwl.lanzouw.com/iWx1P25sma7a)
   - 脚本变量/合区工具/日志服务
 - 2024-07-14 <i>1.3.0</i> - 下载地址：[蓝奏云(密码:7bv4)](https://wwl.lanzouw.com/igL5p24g751g)
   - 封挂网关/属性突破
-- 2024-06-29 <i>1.2.0</i> - 下载地址：[蓝奏云(密码:g9k2)](https://wwl.lanzouw.com/iwGwX24dpnra)
+- 2024-06-29 <i>1.2.0</i> - 下载地址：<i>过时, 请下载最新版...</i>
   - 血量突破
 - 2024-06-16 - 下载地址：<i>过时, 请下载最新版...</i>
 - 2024-06-10 - 下载地址：<i>过时, 请下载最新版...</i>
@@ -36,7 +38,36 @@
 
 ## 更新日志
 
-- <b>2024-07-28</b> :fire:
+
+- <b>2024-08-18</b> :fire:
+
+01. 扩展爆率格式兼容GeeM2/GomM2爆率设置
+02. 修复用户自定义命令HeroM2兼容
+03. 优化游戏速度控制&增加"游戏速度->外挂"触发@UsePlugin
+04. 修复@CallInputStringX HeroM2脚本兼容
+05. 修复摇骰子PlayDice HeroM2协议兼容
+06. 新增ThrowItem兼容HeroM2并扩展支持捡取时间,如:ThrowItem 3 330 330 10 回城卷 5 10(秒)
+07. 修复AutoRunRobot执行ThrowItem异常(缺少地图环境)
+08. 优化全局捡物逻辑确保ThrowItem脚本逻辑保持一致
+09. 禁止刺杀吸血吸蓝,只允许近身攻击触发
+10. 调整"在线人物->人物属性"金币/元宝最大上限到21亿
+11. 修复ChangeModeEx的消息提示并支持S变量传参
+12. 修复HitMon的S0变量,要求被攻击者为玩家人物
+13. 修复<$MONKILLER> HeroM2变量兼容
+14. 修复SetRankLevelName封号脚本的S变量兼容 
+15. 修复GetRandomText HeroM2脚本兼容
+16. 修复CheckHumInRange HeroM2脚本兼容
+17. 修复GetOppositeHumName HeroM2脚本兼容
+18. 修复GetUserItemName HeroM2脚本兼容
+19. 修复CheckMapSameMonCount HeroM2脚本兼容
+20. 修复CheckRangeMonCountEx HeroM2脚本兼容
+21. 修复CheckOffline HeroM2脚本兼容
+22. 修复GoldCount HeroM2脚本兼容
+23. 支持ChangeDressEffect HeroM2脚本兼容
+24. 修复刺杀一刀打出两刀导致双倍攻击问题
+25. 支持CheckHumBag HeroM2脚本兼容
+
+- <b>2024-07-28</b>
 
 1. 提供引擎自带的数据合并工具，简称：合区工具
 2. 修复 BDE 转 Access 数据类型不兼容的问题
