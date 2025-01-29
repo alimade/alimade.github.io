@@ -9,4 +9,4 @@ relative_links:
 include:
   - index.md
   - happym2.md
-anchor_js: false
+theme: false
