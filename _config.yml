@@ -2,7 +2,8 @@ plugins:
   - jekyll-relative-links
   - jemoji
 relative_links:
-  enabled: true
-  collections: true
+  enabled: false
+  collections: false
 include:
   - index.md
+  - happym2.md
