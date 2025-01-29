@@ -11,4 +11,4 @@ include:
   - index.md
   - happym2.md
 theme: false
-remote_theme: caryyu/primer
+remote_theme: caryyu/primer@master
