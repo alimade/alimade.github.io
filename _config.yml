@@ -1,9 +1,11 @@
+name: ""
+title: null
 plugins:
   - jekyll-relative-links
   - jemoji
 relative_links:
-  enabled: false
-  collections: false
+  enabled: true
+  collections: true
 include:
   - index.md
   - happym2.md
