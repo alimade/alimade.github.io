@@ -1,6 +1,7 @@
 name: ""
 title: null
 plugins:
+  - jekyll-remote-theme
   - jekyll-relative-links
   - jemoji
 relative_links:
@@ -10,3 +11,4 @@ include:
   - index.md
   - happym2.md
 theme: false
+remote_theme: pages-themes/primer@v0.6.0
