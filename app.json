@@ -1,0 +1,43 @@
+{
+  "HomeAdUrl": "http://iplist.caryyu.top/dlq2024",
+  "ExitAdUrl": "http://www.77mir.com",
+  "BBSUrl": "https://bbs.7dlq.us.kg",
+  "Files": [
+    {
+      "Name": "CQHX.exe",
+      "Url": "http://8.148.23.171/dlq/updates/CQHX.exe.updates",
+      "LocalPath": "./",
+      "Checksum": "sha1:efabdff8c7135b4b9af20e17b0f0a1d0913dba0b"
+    },
+    {
+      "Name": "M.Hook.dll",
+      "Url": "http://8.148.23.171/dlq/updates/M.Hook.dll.updates",
+      "LocalPath": "./",
+      "Checksum": "sha1:064ad88fcad89da6f59c39a7396d3a87554311e8"
+    },
+    {
+      "Name": "MirClient.dat",
+      "Url": "http://8.148.23.171/dlq/updates/MirClient.dat.updates",
+      "LocalPath": "./",
+      "Checksum": "sha1:0af4b3dbeb7e0d0b777f4b6d1c665d6672d322d2"
+    },
+    {
+      "Name": "ToolPkg.dll",
+      "Url": "http://8.148.23.171/dlq/updates/ToolPkg.dll.updates",
+      "LocalPath": "./",
+      "Checksum": "sha1:b7f1c7888496cab7167581e66fdb78a3ba8017e0"
+    },
+    {
+      "Name": "Windowed.dll",
+      "Url": "http://8.148.23.171/dlq/updates/Windowed.dll.updates",
+      "LocalPath": "./",
+      "Checksum": "sha1:b7f1c7888496cab7167581e66fdb78a3ba8017e0"
+    },
+    {
+      "Name": "mClient.dat",
+      "Url": "http://8.148.23.171/dlq/updates/mClient.dat.updates",
+      "LocalPath": "./",
+      "Checksum": "sha1:2b412ae6eec5f75633ae2c334039e7bd7047f365"
+    }
+  ]
+}
